@@ -1,22 +1,35 @@
 Słownik Polsko-Installingowy
 
+autostopowicz - Anhalter
+brązowy  medal - Bronzemedaille
 chcemy - wollen
+droga rowerowa - Radwege
+iPod - iPod
+ilość, masa, tłum - Menge
 jeździć konno - reiten
 kibicować - anfeuern
+kort tenisowy - Tennisplatz
+mistrzostwa - Meisterschaften
 morze bałtyckie - Ostsee
 możemy - können
 musimy - müssen
 narta - Ski
 odbywać się - stattfinden
+ogólnie, w sumie - insgesamt
+orchidea - Orchideen
 powinniśmy - sollen
 pralina - Pralinen
+pływać - schwimmen
 rakieta tenisowa - Tennisschläger
 rezultat - Ergebnisse
 rower - Fahrrad
+roślina pokojowa - Zimmerpflanzen
 salon gier - Spielothek
 smakołyk - Leckerei
 spodenki kąpielowe - Badehose
 styl życia - Lebensstil
+Szwecja - Schwedens
+świętować, obchodzić - feiern
 tenis - Tennis
 tor do jazdy konnej - Reitbahn
 ustanawiać rekord - aufstellen
@@ -25,5 +38,5 @@ wyścig - Wettrennen
 zakaz parkowania - Parkverbot
 zdmuchiwać - auspusten
 złoty medal - Goldmedaille
+ławka - Bank
 łyżwa - Schlittschuh
-świętować, obchodzić - feiern
