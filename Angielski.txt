@@ -3,14 +3,18 @@ Słownik Polsko-Installingowy
 bez kierowcy - driverless
 biurko, pulpit - desktop
 błąd - error
-dowiadywac się - find out
+dowiadywać się - find out
 ekolog - environmentalist
+element złączny - fastener
 fizyka - physics
 genetyk - geneticist
 genetyka - genetics
 klawiatura - keypad
+klikać - click
 matematyka - mathematics
+media społecznościowe - social media
 nacisnąć guzik - press a button
+nakręcany - wind-up
 nie ma zasięgu w telefonie komórkowym - there's no signal
 obuwie sportowe - trainers
 odplatać - untangle
@@ -18,16 +22,18 @@ podłączać się do internetu - go online
 przeglądarka internetowa - web browser
 przenosić dane - transfer data
 przyczepić się czegoś - catch hold of something
+przymocowywać - attach
 skonfigurować telefon - set up a phone
 uaktualnić - update
 uruchomić komputer - start up a computer
-ustwienia - settings
+ustawienia - settings
 użytkownik - user
+W-F - P.E.
 wybierać - select
 wycieraczka - windscreen wiper
+wymazywać - delete
 wysyłać sms - send a text
 wyłączyc - shut down
-W-F - P.E.
 zadzwonić - make a call
 zwiedzać - explore
 złapać zasięg - get a signal
